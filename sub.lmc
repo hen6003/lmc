@@ -1,0 +1,7 @@
+        inp
+        sta first
+        inp
+        sub first
+        out
+        hlt
+first   dat
